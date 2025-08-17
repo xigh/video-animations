@@ -1,5 +1,6 @@
 # video-animations
-animations que j'ai réalisé pour ma [chaîne youtube "la tête dans le code" / "head in this asm"](https://www.youtube.com/@la_tete_dans_le_code) et pour illustrer certains de mes articles
+
+Animations que j'ai réalisées pour ma [chaîne youtube "la tête dans le code" / "head in this asm"](https://www.youtube.com/@la_tete_dans_le_code) et pour illustrer certains de mes articles
 
 ## 1. Multiplication simple de matrices
 
